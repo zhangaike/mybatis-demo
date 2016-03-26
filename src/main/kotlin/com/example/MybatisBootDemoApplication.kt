@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 @SpringBootApplication
 open class MybatisBootDemoApplication {
 }
-
+//Ìí¼Ó×¢ÊÍ
 fun main(args: Array<String>) {
   SpringApplication.run(MybatisBootDemoApplication::class.java, *args)
 }

@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner
 @SpringApplicationConfiguration(classes = arrayOf(MybatisBootDemoApplication::class))
 @WebAppConfiguration
 class MybatisBootDemoApplicationTests {
-
+  //×¢ÊÍ
   @Test
   fun contextLoads() {
     assert(1 + 2 == 3)

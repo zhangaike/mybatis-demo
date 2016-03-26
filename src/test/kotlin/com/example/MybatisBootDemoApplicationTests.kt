@@ -11,6 +11,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner
 @WebAppConfiguration
 class MybatisBootDemoApplicationTests {
   //×¢ÊÍ
+  //×¢ÊÍ3
   @Test
   fun contextLoads() {
     assert(1 + 2 == 3)
